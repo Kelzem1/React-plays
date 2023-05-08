@@ -3,6 +3,10 @@ export const TikTakToe =()=>{
         <div>
             <h1>TikTakToe</h1>
             <div className="Exbox">X</div>
+            <div className="Square">
+                Aqui ira el tiktaktoe
+
+            </div>
         </div>
     )
 }
